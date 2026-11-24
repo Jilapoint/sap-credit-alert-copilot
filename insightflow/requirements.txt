@@ -1,0 +1,6 @@
+streamlit>=1.38
+pandas>=2.2
+numpy>=1.26
+azure-ai-projects>=2.0.0
+azure-identity>=1.17
+python-dotenv>=1.0
